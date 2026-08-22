@@ -1,48 +1,57 @@
-# Hi, I'm Ruma 👋
+# Hi, I'm Ruma Ghosh 👋
 
-### Cybersecurity | Cloud Security | AWS
+### Cybersecurity | Cloud Security | AWS | Security Engineering
 
-I'm a cybersecurity-focused engineer interested in:
+I build security-focused projects around **cloud security, application security, vulnerability assessment, and security automation**.
 
-- 🔐 Application Security
-- ☁️ AWS & Cloud Security
-- 🛡️ Security Monitoring & Detection
-- 🔎 Vulnerability Assessment & Penetration Testing
-- 🤖 Security Automation
-- 🐍 Python
+My interests sit at the intersection of **defensive security and practical engineering**, with a focus on understanding how systems can be attacked, monitored, and secured.
 
 ---
 
-## 🛠️ Technologies
+## 🔐 Security Focus
 
-**Security:** OWASP, Burp Suite, Nmap, Vulnerability Assessment
-
-**Cloud:** AWS, IAM, CloudTrail, CloudWatch
-
-**Programming:** Python, SQL
-
-**Systems:** Linux, Git, GitHub
+- ☁️ **Cloud Security** — AWS, IAM, CloudTrail, CloudWatch
+- 🛡️ **Application Security** — OWASP, SQL Injection, secure application design
+- 🔎 **Vulnerability Assessment & Penetration Testing**
+- 📊 **Security Monitoring & Detection Engineering**
+- 🤖 **Security Automation** with Python
+- 🐧 **Linux & Server Security**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Cloud & Infrastructure** | AWS, IAM, CloudTrail, CloudWatch, Exoscale, Docker |
+| **Security** | OWASP, Burp Suite, Nmap, Trivy, Vulnerability Assessment |
+| **Programming** | Python, SQL |
+| **Web & Backend** | Flask, SQLAlchemy, PostgreSQL |
+| **Systems & Tools** | Linux, Git, GitHub |
+
+---
+
+## 🚀 Featured Security Projects
 
 ### 🔐 SQL Injection Detection & Blocking System
 
-Flask-based security application designed to detect SQL injection attempts,
-identify malicious IP addresses, log attacks, and block suspicious requests.
+A Flask-based application security project designed to detect SQL injection attempts, identify suspicious IP addresses, log malicious requests, and block subsequent attacks.
 
 **Technologies:** Python · Flask · PostgreSQL · SQLAlchemy · Scikit-learn
 
+**Security concepts:** Input detection · Attack logging · IP blocking · Machine-learning classification · Database security
+
 ### ☁️ AWS Cloud Security
 
-Security-focused AWS projects covering IAM, logging, monitoring,
-misconfiguration detection, and automated security responses.
+Security-focused cloud projects exploring IAM, logging, monitoring, cloud misconfiguration detection, and automated security responses.
+
+**Focus:** Least privilege · CloudTrail · IAM security · Monitoring · Automated remediation
 
 ### 🛡️ Security Monitoring Lab
 
-Hands-on security monitoring and detection engineering using Linux logs,
-Python automation, and security analysis.
+Hands-on security monitoring and detection work using Linux logs, Python automation, and security analysis.
+
+**Focus:** Log analysis · Detection engineering · Incident investigation · Security automation
 
 ---
 
@@ -52,9 +61,20 @@ Python automation, and security analysis.
 - Detection Engineering
 - Application Security
 - Security Automation
+- Cloud-native security practices
 
 ---
 
-## 📫 Connect With Me
+## 🎯 What I'm Building Toward
 
-[LinkedIn](https://www.linkedin.com/in/rumaghosh031206/)
+I am working toward a career in **Cloud Security / Security Engineering**, combining practical cybersecurity knowledge with cloud infrastructure, automation, and application security.
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumaghosh031206/)
+
+---
+
+> **Security is not just about finding vulnerabilities. It's about understanding systems well enough to prevent, detect, and respond to them.**
