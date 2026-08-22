@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Ruma 👋
 
-<!--
-**WhitePearl404/WhitePearl404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | Cloud Security | AWS
 
-Here are some ideas to get you started:
+I'm a cybersecurity-focused engineer interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Application Security
+- ☁️ AWS & Cloud Security
+- 🛡️ Security Monitoring & Detection
+- 🔎 Vulnerability Assessment & Penetration Testing
+- 🤖 Security Automation
+- 🐍 Python
+
+---
+
+## 🛠️ Technologies
+
+**Security:** OWASP, Burp Suite, Nmap, Vulnerability Assessment
+
+**Cloud:** AWS, IAM, CloudTrail, CloudWatch
+
+**Programming:** Python, SQL
+
+**Systems:** Linux, Git, GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 SQL Injection Detection & Blocking System
+
+Flask-based security application designed to detect SQL injection attempts,
+identify malicious IP addresses, log attacks, and block suspicious requests.
+
+**Technologies:** Python · Flask · PostgreSQL · SQLAlchemy · Scikit-learn
+
+### ☁️ AWS Cloud Security
+
+Security-focused AWS projects covering IAM, logging, monitoring,
+misconfiguration detection, and automated security responses.
+
+### 🛡️ Security Monitoring Lab
+
+Hands-on security monitoring and detection engineering using Linux logs,
+Python automation, and security analysis.
+
+---
+
+## 📚 Currently Learning
+
+- AWS Cloud Security
+- Detection Engineering
+- Application Security
+- Security Automation
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rumaghosh031206/)
