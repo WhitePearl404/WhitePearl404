@@ -21,41 +21,17 @@ My interests sit at the intersection of **defensive security and practical engin
 
 ## 🛠️ Technical Skills
 
-### ☁️ Cloud Security
-
-**AWS Security Hub CSPM** · **GuardDuty** · **Amazon Inspector** · **Amazon Macie** · **IAM Access Analyzer** · **AWS Config** · **CloudTrail** · **Security Lake** · **KMS** · **Secrets Manager** · **SCPs** · **Least-Privilege IAM**
-
-### ☸️ Kubernetes Security
-
-**Amazon EKS Security** · **Kubernetes RBAC** · **Pod Security Standards** · **NetworkPolicy** · **Security Groups for Pods** · **Kyverno** · **OPA/Rego** · **Cilium** · **Tetragon**
-
-### 🔒 DevSecOps
-
-**Trivy** · **Checkov** · **Semgrep** · **Gitleaks** · **tfsec** · **SAST** · **SCA** · **IaC Security** · **Container Security**
-
-### 📦 Software Supply Chain Security
-
-**SBOM** · **Syft** · **Grype** · **Cosign** · **Sigstore** · **in-toto** · **Artifact Signing** · **Provenance**
-
-### 🚨 Detection & Response
-
-**GuardDuty Runtime Monitoring** · **Security Hub** · **Amazon EventBridge** · **AWS Lambda** · **MITRE ATT&CK** · **Incident Response**
-
-### 🏗️ Cloud Security Architecture
-
-**Zero Trust** · **Defense-in-Depth** · **Network Segmentation** · **Encryption** · **Secrets Management** · **Vulnerability Management** · **Security Automation**
-
-### ☁️ Cloud Platforms
-
-**AWS** · **Amazon EKS** · **Exoscale**
-
-### ⚙️ Infrastructure & Platform Engineering
-
-**Terraform** · **Kubernetes** · **Helm** · **Ansible** · **Docker** · **Argo CD** · **GitHub Actions** · **Jenkins**
-
-### 💻 Programming & Systems
-
-**Python** · **SQL** · **Linux** · **Git** · **GitHub** · **Flask** · **PostgreSQL**
+| Area | Technologies |
+|---|---|
+| **Cloud Security** | AWS Security Hub CSPM, GuardDuty, Inspector, Macie, IAM Access Analyzer, AWS Config, CloudTrail, Security Lake, KMS, Secrets Manager, SCPs, Least-Privilege IAM |
+| **Kubernetes Security** | Amazon EKS Security, Kubernetes RBAC, Pod Security Standards, NetworkPolicy, Security Groups for Pods, Kyverno, OPA/Rego, Cilium, Tetragon |
+| **DevSecOps** | Trivy, Checkov, Semgrep, Gitleaks, tfsec, SAST, SCA, IaC Security, Container Security |
+| **Supply Chain Security** | SBOM, Syft, Grype, Cosign, Sigstore, in-toto, Artifact Signing, Provenance |
+| **Detection & Response** | GuardDuty Runtime Monitoring, Security Hub, EventBridge, AWS Lambda, MITRE ATT&CK, Incident Response |
+| **Cloud Security Architecture** | Zero Trust, Defense-in-Depth, Network Segmentation, Encryption, Secrets Management, Vulnerability Management, Security Automation |
+| **Cloud Platforms** | AWS, Amazon EKS, GCP, Exoscale, SKS |
+| **Infrastructure & Platform** | Terraform, Kubernetes, Helm, Ansible, Docker, Argo CD, GitHub Actions, Jenkins |
+| **Programming & Systems** | Python, SQL, Linux, Git, GitHub, Flask, PostgreSQL |
 
 ---
 
