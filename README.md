@@ -1,6 +1,6 @@
 # Hi, I'm Ruma Ghosh 👋
 
-### Cybersecurity | Cloud Security | AWS | Security Engineering
+### Cybersecurity | Cloud Security | AWS | EKS | GCP | SKS | DevSecOps 
 
 I build security-focused projects around **cloud security, application security, vulnerability assessment, DevSecOps, and security automation**.
 
@@ -90,6 +90,7 @@ Hands-on security monitoring and detection work using Linux logs, Python automat
 - Detection Engineering
 - DevSecOps & Software Supply Chain Security
 - Cloud-native security architecture
+- Microsoft Azure
 
 ---
 
