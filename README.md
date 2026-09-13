@@ -2,32 +2,60 @@
 
 ### Cybersecurity | Cloud Security | AWS | Security Engineering
 
-I build security-focused projects around **cloud security, application security, vulnerability assessment, and security automation**.
+I build security-focused projects around **cloud security, application security, vulnerability assessment, DevSecOps, and security automation**.
 
-My interests sit at the intersection of **defensive security and practical engineering**, with a focus on understanding how systems can be attacked, monitored, and secured.
+My interests sit at the intersection of **defensive security and practical engineering**, with a focus on understanding how systems can be attacked, monitored, secured, and operated at scale.
 
 ---
 
 ## 🔐 Security Focus
 
-- ☁️ **Cloud Security** — AWS, IAM, CloudTrail, CloudWatch
-- 🛡️ **Application Security** — OWASP, SQL Injection, secure application design
-- 🔎 **Vulnerability Assessment & Penetration Testing**
-- 📊 **Security Monitoring & Detection Engineering**
-- 🤖 **Security Automation** with Python
-- 🐧 **Linux & Server Security**
+- ☁️ **Cloud Security & Architecture**
+- ☸️ **Kubernetes & Container Security**
+- 🔒 **DevSecOps & Software Supply Chain Security**
+- 🛡️ **Application & Infrastructure Security**
+- 📊 **Detection Engineering & Incident Response**
+- 🔎 **Vulnerability Management & Security Automation**
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Area | Technologies |
-|---|---|
-| **Cloud & Infrastructure** | AWS, IAM, CloudTrail, CloudWatch, Exoscale, Docker |
-| **Security** | OWASP, Burp Suite, Nmap, Trivy, Vulnerability Assessment |
-| **Programming** | Python, SQL |
-| **Web & Backend** | Flask, SQLAlchemy, PostgreSQL |
-| **Systems & Tools** | Linux, Git, GitHub |
+### ☁️ Cloud Security
+
+**AWS Security Hub CSPM** · **GuardDuty** · **Amazon Inspector** · **Amazon Macie** · **IAM Access Analyzer** · **AWS Config** · **CloudTrail** · **Security Lake** · **KMS** · **Secrets Manager** · **SCPs** · **Least-Privilege IAM**
+
+### ☸️ Kubernetes Security
+
+**Amazon EKS Security** · **Kubernetes RBAC** · **Pod Security Standards** · **NetworkPolicy** · **Security Groups for Pods** · **Kyverno** · **OPA/Rego** · **Cilium** · **Tetragon**
+
+### 🔒 DevSecOps
+
+**Trivy** · **Checkov** · **Semgrep** · **Gitleaks** · **tfsec** · **SAST** · **SCA** · **IaC Security** · **Container Security**
+
+### 📦 Software Supply Chain Security
+
+**SBOM** · **Syft** · **Grype** · **Cosign** · **Sigstore** · **in-toto** · **Artifact Signing** · **Provenance**
+
+### 🚨 Detection & Response
+
+**GuardDuty Runtime Monitoring** · **Security Hub** · **Amazon EventBridge** · **AWS Lambda** · **MITRE ATT&CK** · **Incident Response**
+
+### 🏗️ Cloud Security Architecture
+
+**Zero Trust** · **Defense-in-Depth** · **Network Segmentation** · **Encryption** · **Secrets Management** · **Vulnerability Management** · **Security Automation**
+
+### ☁️ Cloud Platforms
+
+**AWS** · **Amazon EKS** · **Exoscale**
+
+### ⚙️ Infrastructure & Platform Engineering
+
+**Terraform** · **Kubernetes** · **Helm** · **Ansible** · **Docker** · **Argo CD** · **GitHub Actions** · **Jenkins**
+
+### 💻 Programming & Systems
+
+**Python** · **SQL** · **Linux** · **Git** · **GitHub** · **Flask** · **PostgreSQL**
 
 ---
 
@@ -57,17 +85,17 @@ Hands-on security monitoring and detection work using Linux logs, Python automat
 
 ## 📚 Currently Learning
 
-- AWS Cloud Security
+- Advanced AWS Cloud Security
+- Kubernetes & EKS Security
 - Detection Engineering
-- Application Security
-- Security Automation
-- Cloud-native security practices
+- DevSecOps & Software Supply Chain Security
+- Cloud-native security architecture
 
 ---
 
 ## 🎯 What I'm Building Toward
 
-I am working toward a career in **Cloud Security / Security Engineering**, combining practical cybersecurity knowledge with cloud infrastructure, automation, and application security.
+I am working toward a career in **Cloud Security / Security Engineering**, combining practical cybersecurity knowledge with cloud infrastructure, Kubernetes, DevSecOps, automation, and application security.
 
 ---
 
