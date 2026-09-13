@@ -1,6 +1,6 @@
 # Hi, I'm Ruma Ghosh 👋
 
-### Cybersecurity | Cloud Security | AWS | EKS | GCP | SKS | DevSecOps 
+### Cybersecurity | Cloud Security | AWS EKS | GCP GKE | Exoscale SKS | DevSecOps 
 
 I build security-focused projects around **cloud security, application security, vulnerability assessment, DevSecOps, and security automation**.
 
